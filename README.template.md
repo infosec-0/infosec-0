@@ -12,11 +12,7 @@ Humbled Cybersecurity professional, engaging as senior Malware Researcher, creat
 Want to know more about me? [Check out my portfolio.](https://debug.tips/)
 
 ## 📝 Latest Blog Posts
-
-<br>
-
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 <br>
