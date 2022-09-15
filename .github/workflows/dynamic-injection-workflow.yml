@@ -1,8 +1,8 @@
 name: Dynamic README injection
 on:
  schedule: 
- # Run workflow every hour
-   - cron: '0 * * * *' 
+ # Run workflow end of day
+   - cron: '0 0 * * *' 
  
  workflow_dispatch:  
  # Manually trigger workflow using workflow_dispatch
@@ -20,3 +20,6 @@ jobs:
          
          feed_list: "debug.tips/feed"
          # Replace this URL with your rss feed URL/s
+         
+         retry_count: 5
+         # workflow will retry if the first try fails
