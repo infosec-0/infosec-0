@@ -12,19 +12,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
+     
       - name: Let the magic happen
         uses: actions/setup-node@v1
         with:
           node-version: 14.6.0
-
       - run: yarn
-
       - run: node .
       # provoke debug.tips' ./index.js file to execute:
       # take everything in the README.template.md
       # copy-paste over contents of README.md
-
+      
       - name: Add to git repo
       # For updated information to display on debug.tip's GitHub, commit and push the changes repository
         run: |
@@ -34,18 +32,18 @@ jobs:
           git config --global user.name "infosec-0"
           git config --global user.email "infosecluminary@pm.me"
           git commit -m "[Automated] README updated with debug.tips!"
+      
       - name: Push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
  update-readme-with-blog:
+   needs: get-injection
+   # only activate after the get-injection workflow has completed its steps
    name: Update this repo's README with latest blog posts
    runs-on: ubuntu-latest
    steps:
-     - needs: get-injection
-     # only activate after the get-injection workflow has completed its steps
-     
      - uses: actions/checkout@v2
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
