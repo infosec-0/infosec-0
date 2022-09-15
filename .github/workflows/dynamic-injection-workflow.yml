@@ -18,7 +18,7 @@ jobs:
          comment_tag_name: "BLOG-POST-LIST"       
          # Update the README.md's dynamic section
          
-         feed_list: "debug.tips/atom.xml"
+         feed_list: "debug.tips/feed"
          # Replace this URL with your rss feed URL/s
          
          retry_count: 5
