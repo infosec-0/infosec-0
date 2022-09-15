@@ -8,7 +8,7 @@ on:
  # Manually trigger workflow using workflow_dispatch
 
 jobs:
-get-injection:
+ get-injection:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
