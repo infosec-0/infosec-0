@@ -31,8 +31,7 @@ jobs:
           git add .
           git config --global user.name "infosec-0"
           git config --global user.email "infosecluminary@pm.me"
-          git commit -m "[Automated] README updated with debug.tips!"
-          git commit --allow-empty
+          git commit --allow-empty -m "[Automated] README updated with debug.tips!"
           # Add '--allow-empty': if git commit fails because there is nothing new to commit.
           
       - name: Push
