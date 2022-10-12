@@ -16,7 +16,7 @@ jobs:
       - name: Let the magic happen
         uses: actions/setup-node@v1
         with:
-          node-version: 14.6.0
+          node-version: 16.18.0
       - run: yarn
       - run: node .
       # provoke debug.tips' ./index.js file to execute:
