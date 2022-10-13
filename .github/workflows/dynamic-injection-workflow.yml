@@ -51,7 +51,7 @@ jobs:
          comment_tag_name: "BLOG-POST-LIST"       
          # Update the README.md's dynamic section
          
-         feed_list: "http://debug.tips/og-debug-tips-feed/updates.xml"
+         feed_list: "https://debug.tips/og-debug-tips-feed/updates.xml, https://debug.tips/feed/updates.xml"
          # Replace this URL with rss feed URL/s
          
          retry_count: 5
