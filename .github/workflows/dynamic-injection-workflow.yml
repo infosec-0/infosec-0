@@ -51,8 +51,8 @@ jobs:
          comment_tag_name: "BLOG-POST-LIST"       
          # Update the README.md's dynamic section
          
-         feed_list: "https://debug.tips/updates.xml,https://debug.tips/feed/updates.xml"
-         # Replace this URL with your rss feed URL/s
+         feed_list: "https://debug.tips/feed"
+         # Replace this URL with rss feed URL/s
          
          retry_count: 5
          # Workflow will retry if the first try fails
