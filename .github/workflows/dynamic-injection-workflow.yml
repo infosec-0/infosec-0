@@ -46,13 +46,19 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v3
-     - uses: gautamkrishnar/blog-post-workflow@1.7.8
+     - uses: gautamkrishnar/blog-post-workflow@master
        with:
          comment_tag_name: "BLOG-POST-LIST"       
          # Update the README.md's dynamic section
          
-         feed_list: "https://debug.tips/og-debug-tips-feed/updates.xml,https://debug.tips/feed/updates.xml"
+         feed_list: "https://debug.tips/og-debug-tips-feed/updates.xml,https://debug.tips/feed"
          # Replace this URL with rss feed URL/s
+         
+         disable_item_validation: true
+         # Disables validation checks for Title, Publish date and URL.
          
          retry_count: 5
          # Workflow will retry if the first try fails
+         
+         retry_wait_time: 4
+         # Time to wait before each retry operation in seconds.
