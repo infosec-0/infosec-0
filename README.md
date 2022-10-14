@@ -13,6 +13,11 @@ Want to know more about me? [Check out my portfolio.](https://debug.tips/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do native speakers tell I’m foreign based on my English alone?](https://debug.tips/question/how-do-native-speakers-tell-im-foreign-based-on-my-english-alone/)
+- [Why are the British confused about us calling bread rolls “biscuits” when they call bread rolls “puddings”?](https://debug.tips/question/why-are-the-british-confused-about-us-calling-bread-rolls-biscuits-when-they-call-bread-rolls-puddings/)
+- [What is a nice way to end an interview that is clearly going badly?](https://debug.tips/question/what-is-a-nice-way-to-end-an-interview-that-is-clearly-going-badly/)
+- [What is a nice way to end an interview that is clearly going badly?](https://debug.tips/question/what-is-a-nice-way-to-end-an-interview-that-is-clearly-going-badly/)
+- [Is there an English equivalent to the French expression: “il faut d’abord apprendre à marcher avant de courir”?](https://debug.tips/question/is-there-an-english-equivalent-to-the-french-expression-il-faut-dabord-apprendre-a-marcher-avant-de-courir/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
