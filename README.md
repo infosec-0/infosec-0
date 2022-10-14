@@ -13,11 +13,6 @@ Want to know more about me? [Check out my portfolio.](https://debug.tips/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a nice way to end an interview that is clearly going badly?](https://debug.tips/question/what-is-a-nice-way-to-end-an-interview-that-is-clearly-going-badly/)
-- [Is there an English equivalent to the French expression: “il faut d’abord apprendre à marcher avant de courir”?](https://debug.tips/question/is-there-an-english-equivalent-to-the-french-expression-il-faut-dabord-apprendre-a-marcher-avant-de-courir/)
-- [I keep getting tasks that are above my skill level. How can I address this without coming accross as grossly incompetent?](https://debug.tips/question/i-keep-getting-tasks-that-are-above-my-skill-level-how-can-i-address-this-without-coming-accross-as-grossly-incompetent/)
-- [Dealing with an employee that went over my head](https://debug.tips/question/dealing-with-an-employee-that-went-over-my-head/)
-- [How do I tell my new employer that I can’t use the computer they gave me?](https://debug.tips/question/how-do-i-tell-my-new-employer-that-i-cant-use-the-computer-they-gave-me/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
