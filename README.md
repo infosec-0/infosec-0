@@ -13,6 +13,11 @@ Want to know more about me? [Check out my portfolio.](https://debug.tips/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I keep getting tasks that are above my skill level. How can I address this without coming accross as grossly incompetent?](https://debug.tips/question/i-keep-getting-tasks-that-are-above-my-skill-level-how-can-i-address-this-without-coming-accross-as-grossly-incompetent/)
+- [Dealing with an employee that went over my head](https://debug.tips/question/dealing-with-an-employee-that-went-over-my-head/)
+- [How do I tell my new employer that I can’t use the computer they gave me?](https://debug.tips/question/how-do-i-tell-my-new-employer-that-i-cant-use-the-computer-they-gave-me/)
+- [How do I tell my new employer that I can’t use the computer they gave me?](https://debug.tips/question/how-do-i-tell-my-new-employer-that-i-cant-use-the-computer-they-gave-me/)
+- [Should I start with Django or JavaScript?](https://debug.tips/question/should-i-start-with-django-or-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
