@@ -13,6 +13,11 @@ Want to know more about me? [Check out my portfolio.](https://debug.tips/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to secure VR AR mixed reality in 2022?](https://debug.tips/question/how-to-secure-vr-ar-mixed-reality-in-2022/)
+- [Can Malware persist via Metaverse?](https://debug.tips/question/can-malware-persist-via-metaverse/)
+- [How do I profile, deanonymize, and harvest data from VR users?](https://debug.tips/question/how-do-i-profile-deanonymize-and-harvest-data-from-vr-users/)
+- [I keep getting tasks that are above my skill level. How can I address this without coming accross as grossly incompetent?](https://debug.tips/question/i-keep-getting-tasks-that-are-above-my-skill-level-how-can-i-address-this-without-coming-accross-as-grossly-incompetent/)
+- [How do I tell my new employer that I can’t use the computer they gave me?](https://debug.tips/question/how-do-i-tell-my-new-employer-that-i-cant-use-the-computer-they-gave-me/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
