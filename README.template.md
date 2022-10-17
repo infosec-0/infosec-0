@@ -7,7 +7,7 @@
 
 Infosec Luminary, here 👋
 
-Humbled Cybersecurity professional, engaging as senior Malware Researcher, creative tinker and self-proclaimed ethical hacker specializing in reverse engineering. It is my mission to isolate new trends in Malscripts, Malware and Malvertising campaigns to eradicate pervasive persistence.
+Humbled Cybersecurity professional, engaging as free Malware Researcher, creative tinker and self-proclaimed ethical hacker specializing in reverse engineering. It is my mission to isolate new trends in Malscripts, Malware and Malvertising campaigns to eradicate pervasive persistence.
 
 Want to know more about me? [Check out my portfolio.](https://debug.tips/)
 
