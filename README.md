@@ -13,6 +13,11 @@ Want to know more about me? [Check out my portfolio.](https://debug.tips/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to secure VR AR mixed reality in 2022?](https://debug.tips/question/how-to-secure-vr-ar-mixed-reality-in-2022/)
+- [Can Malware persist via Metaverse?](https://debug.tips/question/can-malware-persist-via-metaverse/)
+- [How do I profile, deanonymize, and harvest data from VR users?](https://debug.tips/question/how-do-i-profile-deanonymize-and-harvest-data-from-vr-users/)
+- [Is Point of Sale &lpar;POS&rpar; Malware beyond Jackpotting ATMs?](https://debug.tips/question/is-point-of-sale-pos-malware-beyond-jackpotting-atms/)
+- [Do cyber Masterminds use regular IT people? &lpar;minions: for the boring stuff&rpar;](https://debug.tips/question/do-cyber-masterminds-use-regular-it-people/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
